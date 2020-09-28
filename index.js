@@ -28,9 +28,9 @@ client.on('message', async message => {
         if(!channel) return message.reply("Usage: `!ticket-setup #channel`");
 
         let sent = await channel.send(new Discord.MessageEmbed()
-            .setTitle("Ticket System")
-            .setDescription("React to open a ticket!")
-            .setFooter("Ticketing without clutter")
+            .setTitle(message.guild)
+            .setDescription("React 🎫 to open a ticket!")
+            .setFooter(`Ticketing without clutter`, client.user.displayAvatarURL())
             
             .setColor("00ff00")
         );
