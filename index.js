@@ -30,7 +30,8 @@ client.on('message', async message => {
         let sent = await channel.send(new Discord.MessageEmbed()
             .setTitle("Ticket System")
             .setDescription("React to open a ticket!")
-            .setFooter("Ticket System")
+            .setFooter("Ticketing without clutter")
+            
             .setColor("00ff00")
         );
 
