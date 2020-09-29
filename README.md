@@ -8,7 +8,7 @@
 
 `Video totorial`
 
-link:-[]()
+link:-[https://youtu.be/3uwUYUeu3zM](https://youtu.be/3uwUYUeu3zM)
 # TOUTUBE CHANNEL [https://m.youtube.com/channel/UCq6l5VljzI5mb7jdCeWcmew](https://m.youtube.com/channel/UCq6l5VljzI5mb7jdCeWcmew)
 # Support Server [https://discord.gg/7cXrGeZ](https://discord.gg/7cXrGeZ)
 
